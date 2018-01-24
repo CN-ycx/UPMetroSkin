@@ -1,15 +1,15 @@
-# Unofficial-Patch-For-MetroForSteam [Version 9.0]
-## **Changes**
-*  Added Support for ```linux``` and ```ubuntu```
-	* Tested with Linux Mint Sarah 18 | Ubuntu 16.04
-* Added frame focus on chat windows
-* Added News item in the hamburger menu
-* Minor design fixes to match the official version
-* Minor fixes for text selection especially in the News panel
-* Moved the steamVR button next to the bigpicture button when using that extra
-* Fixed some missing images on some themes
-* Fixed the find bar
-* Improved Backup Wizard Visual Design
-* Updated Segoe UI FONT FIX with 2 more fonts...for consistency :D
-	* Thanks [LazR](http://steamcommunity.com/profiles/76561198187931821)
-* New Extra: Removed In-Game tag
+# 非官方 MetroForSteam 补丁 [版本 9.0]
+## **更改**
+*  添加 ```linux``` 与 ```ubuntu``` 的支持
+	* 测试于 Linux Mint Sarah 18 | Ubuntu 16.04
+* 增加了聊天窗口的窗口焦点
+* 在汉堡菜单中添加新闻项目
+* 补丁的细微设计与官方版本相匹配
+* 对文本选择的小修复, 特别是在新闻面板中
+* 当使用附加补丁时移动 steamVR 按钮至大屏幕模式按钮旁边
+* 修复在某些主题中丢失的图片
+* 修复搜索栏
+* 改进的备份向导可视化设计
+* 更新修复了 Segoe UI 两个以上的字体...为了一致 :D
+	* 感谢 [LazR](http://steamcommunity.com/profiles/76561198187931821)
+* 新的附加补丁: 移除游戏中标签
