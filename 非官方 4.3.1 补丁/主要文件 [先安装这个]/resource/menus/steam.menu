@@ -29,7 +29,7 @@
 		Legal			{	text="#steam_menu_LegalInformation"		shellcmd="steam://url/LegalInformation" }
 		SSA			{	text="#steam_menu_SteamSubscriberAgreement"	shellcmd="steam://url/SSA" }
 		Divider {}
-		Announcements		{	text="Steam Announcements"			shellcmd="steam://url/SteamAnnouncements" }
+		Announcements		{	text="Steam 公告"			shellcmd="steam://url/SteamAnnouncements" }
 		CheckForUpdates		{	text="#steam_menu_checkforupdates"		command="CheckForUpdates" }
 		SystemInfo		{	text="#steam_menu_systeminfo"			command="SystemInfo" }
 		Settings		{	text="#steam_menu_settings"			command="Settings" }
