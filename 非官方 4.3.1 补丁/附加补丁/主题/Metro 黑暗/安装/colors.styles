@@ -1,4 +1,4 @@
-"colors.styles"
+"colors.styles" 
 {
 	include "custom.styles"
 	colors
@@ -49,18 +49,19 @@
 		W10close_Red_h="232 18 35 255"
 		W10close_Red_p="241 112 121 255"
 
-		Grey1="14 14 14 255"
-		Grey2="32 32 32 255"
-		Grey3="64 64 64 255"
+		Grey1="40 40 40 255"
+		Grey2="48 48 48 255"
+		Grey3="75 75 75 255"
 
+		green50="87 119 15 255"
 		green="130 186 0 255"
 		green_bright="0 255 0 255"
 		Red="255 0 0 255"
 
 /////////////////////////////////////
 //======Base Background Color======//
-		ClientBG=Black
-		ClientBGTransparent=Black75
+		ClientBG="26 26 26 255"
+		ClientBGTransparent="43 43 43 191.25"
 
 
 /////////////////////////
@@ -104,13 +105,13 @@
 
 ////////////////////////////////////
 //======Steam Windows Border======//
-		frameBorder=Grey3
+		frameBorder="23 19 102 255"
 		frameBorder_a=frameBorder
 
 
 //////////////////////////////////
 //======Top Bar Background======//
-		Header_Dark="12 12 12 255"
+		Header_Dark="0 22 45 255"
 
 ///////////////////////////////
 //======Top Bar Buttons======//
@@ -143,7 +144,7 @@
 
 ///////////////////////////////////////
 //======Library Game/Music List======//
-		bgGameList=Header_Dark
+		bgGameList="38 38 38 255"
 		bgMusicList=bgGameList
 
 		game_installed=white
@@ -237,7 +238,7 @@
 //======Steam Grid View======//
 		gridInstalled=Friends_Online
 		gridRunning=Friends_InGame
-		gridUninstalled=Grey3
+		gridUninstalled=none
 		gridUpdating=Focus
 		gridShortcut=White
 		gridMod=Friends_Golden
@@ -259,7 +260,7 @@
 //////////////////////////////////////////////
 //======Divider / List Panel Separator======//
 		Dividers=white12
-		Separators=frameBorder
+		Separators=black45
 
 
 //////////////////////////////
@@ -294,12 +295,12 @@
 
 //////////////////////////////////
 //======Chat Window border======//
-		chatframe=frameBorder
+		chatframe=white50
 
 
 //////////////////////////
 //======Search Bar======//
-		TextEntry=Header_Dark
+		TextEntry="0 14 45 255"
 
 
 /////////////////////////////////////////////////
